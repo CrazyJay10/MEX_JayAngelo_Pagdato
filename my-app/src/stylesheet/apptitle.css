@@ -1,0 +1,55 @@
+.AppTitle {
+    
+    color: #4c069c;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    max-width: 60rem;
+    margin: 0 auto;
+    margin-right: 10px;
+}
+
+.login {
+    align-items: center;
+    max-width: 60rem;
+    margin: 0 auto;
+}
+
+.txtUsername{
+    width: 100%;
+    padding: 10px 10px;
+    margin: 15px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+    align-items: center;
+  }
+
+.txtPassword {
+    width: 100%;
+    padding: 10px 10px;
+    margin: 15px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+}
+
+.btnSignin{  
+    background: #4c069c;
+     color: #fff;
+     border: 0;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid rgb(112, 112, 112);
+    box-sizing: border-box;
+    display: block;
+    align-items: center;
+  }
+  .register{
+    font-size: 100%;
+    margin-left: 84%;
+    margin-top: -7.5%;
+  }
